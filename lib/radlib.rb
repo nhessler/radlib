@@ -5,6 +5,7 @@ require_relative "radlib/version"
 require_relative "radlib/agent"
 require_relative "radlib/counter"
 require_relative "radlib/tarai"
+require_relative "radlib/t_c_p"
 
 module Radlib
   class Error < StandardError; end
